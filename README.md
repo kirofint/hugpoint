@@ -1,4 +1,5 @@
-# Step-by-step guide for install and run the bot locally
+# Hugpoint
+## Step-by-step guide for install and run the bot locally
 
 ## 1. Clone this repository
 ```
